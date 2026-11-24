@@ -1,0 +1,18 @@
+# 迷你游戏合集 · Mini Browser Games
+
+> 106 款活跃、18 款归档的零依赖单 HTML 开源浏览器小游戏合集，支持在线试玩与离线运行。MIT 协议。
+
+## Key facts
+- 活跃游戏：106 款；历史归档：18 款；合计：124 款单 HTML 文件。
+- 运行时依赖：0；每款游戏独立交付，可保存为 HTML 离线运行。
+- 在线目录：https://vip-4.github.io/mini-browser-games/
+- 质量评级：SSS / SS / S / A / B / C / D，按评级与玩法类型筛选。
+- 特色作品：星团大作战（单人/LAN/自部署互联网联机）、回声禁区测试版。
+- 协议：MIT License。
+- 原始仓库：https://github.com/wangzifan396-wzf/mini-browser-games
+
+## Documentation
+- 首页：https://vip-4.github.io/mini-browser-games/
+- 常见问题：https://vip-4.github.io/mini-browser-games/#faq
+- 质量审计：https://vip-4.github.io/mini-browser-games/GAME_AUDIT.md
+- 机器可读摘要：https://vip-4.github.io/mini-browser-games/llms.txt
